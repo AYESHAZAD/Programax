@@ -91,3 +91,26 @@ int main()
     }
     return 0;
 }
+
+
+/*
+4 3
+timotius
+harry
+richard
+januar
+1 2 10
+1 3 8
+1 4 6
+
+4 3
+rocky
+herwin
+gaston
+jefry
+1 2 5
+1 3 5
+1 4 5
+
+0 0
+*/
