@@ -77,7 +77,6 @@ int main()
             sum+=w;
             edge.push_back(node(u,v,w));
         }
-
         res=sum-krushkal(n);
         printf("%d\n",res);
 
