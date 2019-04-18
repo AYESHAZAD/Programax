@@ -8,7 +8,6 @@ int dist[1000];
 void dijkstra(int src)
 {
     priority_queue< ii, vector<ii>, greater<ii> > pq;
-
     dist[src]=0;
     pq.push(make_pair(0,src));
 
