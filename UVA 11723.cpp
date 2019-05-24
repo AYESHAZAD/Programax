@@ -7,8 +7,7 @@ int main()
 
     while(cin>>r>>n)
     {
-
-        if(r==0&&n==0)
+       if(r==0&&n==0)
             break;
 
         int res=(r-1)/n;
