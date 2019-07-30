@@ -43,7 +43,6 @@ int b_search2(int n,int s)
 
 int main()
 {
-    //freopen("raju.txt", "w+", stdout);
     int q,a,n;
     cin>>n;
     for(int i=1; i<=n; i++)
