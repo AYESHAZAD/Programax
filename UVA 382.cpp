@@ -41,7 +41,6 @@ int main()
         else if(sum==n)
             printf("PERFECT\n");
 
-
     }
     printf("END OF OUTPUT\n");
     return 0;
