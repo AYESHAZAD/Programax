@@ -60,7 +60,6 @@ int main()
             node[i].clear();
         vc.clear();
 
-
     }
 
     return 0;
